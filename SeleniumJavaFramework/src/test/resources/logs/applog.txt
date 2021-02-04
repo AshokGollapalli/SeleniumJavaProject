@@ -1,0 +1,7 @@
+INFO    2021-02-02 11:55:44,444 [main] pages.TestLogs  - OR.Properties Launched
+INFO    2021-02-02 11:55:44,446 [main] pages.TestLogs  - Config.Properties Launched
+INFO    2021-02-02 11:55:53,359 [main] pages.TestLogs  - Firefox browser Launched
+INFO    2021-02-02 11:55:56,236 [main] pages.TestLogs  - clicking on an Element : clickBuy_xpath
+INFO    2021-02-02 11:55:56,482 [main] pages.TestLogs  - clicking on an Element : chekout_xpath
+INFO    2021-02-02 11:55:57,706 [main] pages.TestLogs  - clicking on an Element : contin_xpath
+INFO    2021-02-02 11:55:57,768 [main] pages.TestLogs  - clicking on an Element : credit_xpath
